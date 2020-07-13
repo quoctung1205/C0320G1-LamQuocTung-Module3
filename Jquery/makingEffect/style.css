@@ -1,0 +1,15 @@
+#nut_thong_bao {
+    padding: 10;
+    position: fixed;
+    bottom: 10;
+    left: 10;
+    border-radius: 100%;
+    border: 1px solid #c1c1c1; }
+    #hop_thong_bao {
+    display: none;
+    position: fixed;
+    bottom: 10;
+    left: 30;
+    padding: 20px;
+    border: 1px solid #c1c1c1;
+    border-radius: 5px; }
